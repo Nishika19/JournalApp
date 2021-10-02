@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Journal</string>
+    <string name="hint"> Type a message</string>
+    <string name="menu_search">Search</string>
+    <string name="Email">Email</string>
+    <string name="enter_password">Password</string>
+    <string name="sigin">Login</string>
+    <string name="or">Or</string>
+    <string name="createAccount">Create Account</string>
+    <string name="username">Username</string>
+    <string name="create">Create</string>
+    <string name="enter_name">Name</string>
+    <string name="about">About</string>
+    <string name="intent">Intent</string>
+    <string name="menu_Add">Add Journal</string>
+    <string name="signout">Sign out</string>
+    <string name="nothing_added">No Journal Added!</string>
+    <string name="Name">Name</string>
+    <string name="delete">delete</string>
+    <string name="update">update</string>
+</resources>
